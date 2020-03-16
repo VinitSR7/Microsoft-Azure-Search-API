@@ -7,7 +7,7 @@ In this tutorial, i used Microsoft Azure as the search API.
 - After signing up, you will get couple of keys which are valid for 7 days, copy and use them here.
 
 ## BING_Serch_API.ipynb
-- Basic Steps to use Bing Search API
+- Basics of Bing Search API
 
 ## Image_Search_Downloader.ipynb
 - Using Bing Search API to download all the image from any website
